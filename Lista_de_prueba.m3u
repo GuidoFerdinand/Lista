@@ -25,3 +25,7 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/160.m3u8
 #EXTINF:-1 group-title="DEPORTES",  beIN Sports
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/56.m3u8
 #EXTINF:-1 group-title="DEPORTES",  beIN Sports La Liga
+#EXTINF:-1  group-title="DEPORTES",DirectTV Sport 1
+http://propdsrv.com/live/v1kjh33n/g04uoiz9/112847.m3u8
+#EXTINF:-1  group-title="DEPORTES",DirectTV Sport+
+http://propdsrv.com/live/v1kjh33n/g04uoiz9/112848.m3u8
