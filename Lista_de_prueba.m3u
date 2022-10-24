@@ -1,43 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="DEPORTES",  DirecTV Sports
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
-#EXTINF:-1 group-title="DEPORTES",  FOX Sports
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/105.m3u8
-#EXTINF:-1 group-title="DEPORTES",  FOX Sports 2
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/106.m3u8
-#EXTINF:-1 group-title="DEPORTES",  FOX Sports 3
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/107.m3u8
-#EXTINF:-1 group-title="DEPORTES",  FOX Sports (USA)
+#EXTINF:-1 group-title="DEPORTES",  FOX Sports (Pluto)
 https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 group-title="DEPORTES",  FS1
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/108.m3u8
-#EXTINF:-1 group-title="DEPORTES",  FS2
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/109.m3u8
-#EXTINF:-1 group-title="DEPORTES",  ESPN 2
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/90.m3u8
-#EXTINF:-1 group-title="DEPORTES",  ESPN 3
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/91.m3u8
-#EXTINF:-1 group-title="DEPORTES",  ESPN Deportes
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/92.m3u8
-#EXTINF:-1 group-title="DEPORTES",  ESPN Extra
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/93.m3u8
-#EXTINF:-1 group-title="DEPORTES",  Gol TV
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/115.m3u8
-#EXTINF:-1 group-title="DEPORTES",  TUDN
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/160.m3u8
-#EXTINF:-1 group-title="DEPORTES",  BEIN Sports
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/56.m3u8
-#EXTINF:-1 group-title="DEPORTES",  Pluto NFL Network
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
-#EXTINF:-1 group-title="DEPORTES",  Pluto MLB Network
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="DEPORTES",  ESPN (USA)
-http://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="DEPORTES",  ESPN (USA)
-http://npse.brots.world/espn2.m3u8
-#EXTINF:-1 group-title="DEPORTES",  ESPN 2 (USA)
-https://gma2.blab.email/espn2.m3u8
-#EXTINF:-1 group-title="DEPORTES",  ESPN News (USA)
-https://gma2.blab.email/espnews.m3u8
-#EXTINF:-1 group-title="DEPORTES",  ESPN U (USA)
-https://gma2.blab.email/espnu.m3u8
+
