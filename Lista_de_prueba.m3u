@@ -5,11 +5,3 @@ http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 group-title="DEPORTES",  DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w243317809.m3u8
-#EXTINF:-1 group-title="USA TELEVISION",  FOX 11 Los Angeles
-https://dcs-live-ue4.mp.lura.live/server/play/vAQozBaC9R1Luz7b/rendition.m3u8?track=video-3&anvsid=m177635097-nda87b368f6d1fa66dc4b1a0cb48cfaa3&ts=1666661022&anvtrid=2e1566a1f53b45b0b91a29bd2cf220ce
-#EXTINF:-1 group-title="USA TELEVISION",  FOX 5 Atlanta
-https://dcs-live-ue4.mp.lura.live/server/play/V72qBb2IvL6DTNVj/rendition.m3u8?track=video-3&anvsid=m177635101-nda1ed9d8f946e39cee938ccc2db4f39b&ts=1666661389&anvtrid=e32df3e8a2a3c232cd6918ced0538640
-#EXTINF:-1 group-title="USA TELEVISION",  FOX 35 Orlando
-https://dcs-live-ue4.mp.lura.live/server/play/xADaLvVFzEBRFWrj/rendition.m3u8?track=video-2&anvsid=m177635095-nc981a57e29797606a3162cfc80735edd&ts=1666661872&anvtrid=082427f3c8a0b66c55ef025c4938102c
-#EXTINF:-1 group-title="USA TELEVISION",  FOX 13 Seattle
-https://dcs-live-ue4.mp.lura.live/server/play/xjWzYdmubZxyhQ8A/rendition.m3u8?track=video-3&anvsid=m177635093-n5bfc71a04baf8d74100cc27aa75caf1f&ts=1666661971&anvtrid=c4b1fda79485455c8ac7d98c5f38af39
