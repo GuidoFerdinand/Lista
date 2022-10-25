@@ -3,6 +3,8 @@
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:-1 group-title="DEPORTES",  FOX Sports (Pluto)
 https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 group-title="DEPORTES",  DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w243317809.m3u8
 #EXTINF:-1 group-title="USA TELEVISION",  FOX 11 Los Angeles
 https://dcs-live-ue4.mp.lura.live/server/play/vAQozBaC9R1Luz7b/rendition.m3u8?track=video-3&anvsid=m177635097-nda87b368f6d1fa66dc4b1a0cb48cfaa3&ts=1666661022&anvtrid=2e1566a1f53b45b0b91a29bd2cf220ce
 #EXTINF:-1 group-title="USA TELEVISION",  FOX 5 Atlanta
